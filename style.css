@@ -3,7 +3,7 @@
 .div-body{
     background-image: url(img/pattern.png);
     background-size: 25% 190px;
-    background-color: rgb(28, 121, 228);
+    background-color: rgba(78,160,255,255);
     height: 100px;
 }
 
@@ -13,3 +13,18 @@
     height: 50px;
 }
 
+/* Azzerato il margine */
+.titolo{
+    margin-bottom: auto;
+}
+
+/* Azzerato il margine e cambiato colore */
+.autore{
+    margin: auto;
+    color: rgba(137,137,137,255);
+}
+
+/* Cambiato colore */
+.nome {
+    color: rgba(110,199,238,255);
+}

@@ -50,3 +50,17 @@
 .lista{
     padding: 10px;
 }
+
+.thead{
+    background-color: rgba(32,169,229,255);
+    width: 1000px;
+    color: white;
+}
+
+.tbody{
+    background-color: rgba(177,229,242,255);
+}
+
+.interesse{
+    color: rgba(137,137,137,255);
+}

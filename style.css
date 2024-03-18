@@ -51,16 +51,52 @@
     padding: 10px;
 }
 
-.thead{
+/* table */
+.table{
+    border-spacing:  0px;
+    table-layout: unset;
+    width: 100%;
+}
+
+.riga{
     background-color: rgba(32,169,229,255);
-    width: 1000px;
-    color: white;
+}
+
+.cella{
+    text-align: left;
 }
 
 .tbody{
     background-color: rgba(177,229,242,255);
+    height: 50px;
 }
+
+.tbody-2{
+    background-color: rgba(255,255,255,255);
+    height: 50px;
+}
+
+
+
 
 .interesse{
     color: rgba(137,137,137,255);
+}
+
+.foto-pc{
+    margin: 0px;
+    background-image: url(img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    color: #FFFFFF;
+    font-size:larger;
+}
+
+.foto-analisi{
+    margin: 0px;
+    background-image: url(img/graph.jpg);
+    width: 312px;
+    height: 208px;
+    color: #FFFFFF;
+    font-weight: normal;
 }

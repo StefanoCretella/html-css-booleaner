@@ -29,6 +29,7 @@
     color: rgba(110,199,238,255);
 }
 
+/* BackGround e margini "fotografi" */
 .fotografi{
     margin: auto;
 }
@@ -39,4 +40,13 @@
 
 .fotografi-2{
     margin: auto;
+}
+
+.colore{
+    background-color: yellow;
+}
+
+/* lista */
+.lista{
+    padding: 10px;
 }

@@ -1,0 +1,15 @@
+/* Correzione Colore e Grandezza del BackGround */
+/* IMG DEL BACKGROUND */ 
+.div-body{
+    background-image: url(img/pattern.png);
+    background-size: 25% 190px;
+    background-color: rgb(28, 121, 228);
+    height: 100px;
+}
+
+/* Correzione Margine Superiore e Altezza */ 
+.logo{
+    margin-top: 45px;
+    height: 50px;
+}
+
